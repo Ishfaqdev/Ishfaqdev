@@ -16,7 +16,9 @@ Hello! 👋 I'm Ishfaq Ahmad, a passionate Python Django developer. I enjoy buil
 - **Databases:**  MySQL, SQLite
 - **Version Control:** Git
 - **Tools:** Virtualenv
-- **Other:** RESTful APIs, GraphQL
+- **Cloud:** AWS Solution Architecht 
+- **Other:** RESTful APIs
+
 
 ## Projects
 
