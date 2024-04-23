@@ -10,7 +10,7 @@ Hello! 👋 I'm Ishfaq Ahmad, a passionate Python Django developer. I enjoy buil
 
 ## My Tech Stack
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python
 - **Web Frameworks:** Django
 - **Frontend:** HTML, CSS
 - **Databases:**  MySQL, SQLite
