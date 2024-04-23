@@ -11,11 +11,11 @@ Hello! 👋 I'm Ishfaq Ahmad, a passionate Python Django developer. I enjoy buil
 ## My Tech Stack
 
 - **Languages:** Python, JavaScript
-- **Web Frameworks:** Django, Flask
+- **Web Frameworks:** Django
 - **Frontend:** HTML, CSS, JavaScript
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Databases:**  MySQL, SQLite
 - **Version Control:** Git
-- **Tools:** Docker, Virtualenv
+- **Tools:** Virtualenv
 - **Other:** RESTful APIs, GraphQL
 
 ## Projects
@@ -58,7 +58,6 @@ I'm open to collaboration and always interested in new opportunities and project
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: www.linkedin.com/in/ishfaq-ahmad-a29514300
 
 Thanks for checking out my GitHub! Happy coding! 🚀
