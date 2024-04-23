@@ -6,13 +6,13 @@ Hello! 👋 I'm Ishfaq Ahmad, a passionate Python Django developer. I enjoy buil
 
 - 💻 I'm currently working as a Freelancer.
 - 🌱 I'm always eager to learn and explore new technologies to enhance my skills.
-- 📫 How to reach me: ishfaqsd67@gmail.com 
+- 📫 How to reach me: ishfaqsd67@gmail.com or ishfaq.ml09@outlook.com
 
 ## My Tech Stack
 
 - **Languages:** Python, JavaScript
 - **Web Frameworks:** Django
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Databases:**  MySQL, SQLite
 - **Version Control:** Git
 - **Tools:** Virtualenv
