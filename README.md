@@ -26,33 +26,31 @@ A web application for browsing and exploring cars online.
 
 - GitHub: https://github.com/Ishfaqdev/online_car_showroom.git
 
-### Django Blog (Project 1)
+### Django Blog
 
 A simple blog application built with Django.
 
-- GitHub: [(https://github.com/Ishfaqdev/django_blog.git)]
+- GitHub: https://github.com/Ishfaqdev/django_blog.git
 
 
-### Todo List (Project 2)
+### Todo List 
 
 A basic todo list application to manage tasks.
 
-- GitHub: [Link to GitHub repository]
-- Demo: [Link to live demo if applicable]
+- GitHub: https://github.com/Ishfaqdev/ToDoList.git
 
-### GitHub RepoFetcher (Project 3)
+### GitHub RepoFetcher 
 
 An application to fetch and display GitHub repository details.
 
-- GitHub: [Link to GitHub repository]
-- Demo: [Link to live demo if applicable]
+- GitHub: https://github.com/Ishfaqdev/Django-GitHub-Repo-Fetcher.git
 
-### CRUD Application (Project 4)
+
+### CRUD Application 
 
 A basic CRUD (Create, Read, Update, Delete) application.
 
-- GitHub: [Link to GitHub repository]
-- Demo: [Link to live demo if applicable]
+- GitHub: https://github.com/Ishfaqdev/Django-crud-operations.git
 
 ## Open for Collaboration
 
