@@ -24,15 +24,14 @@ Hello! 👋 I'm Ishfaq Ahmad, a passionate Python Django developer. I enjoy buil
 
 A web application for browsing and exploring cars online.
 
-- GitHub: [Link to GitHub repository]
-- Demo: [Link to live demo if applicable]
+- GitHub: https://github.com/Ishfaqdev/online_car_showroom.git
 
 ### Django Blog (Project 1)
 
 A simple blog application built with Django.
 
-- GitHub: [Link to GitHub repository]
-- Demo: [Link to live demo if applicable]
+- GitHub: [(https://github.com/Ishfaqdev/django_blog.git)]
+
 
 ### Todo List (Project 2)
 
